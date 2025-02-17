@@ -4,6 +4,7 @@ nes_ntsc Change Log
 nes_ntsc 0.2.4
 --------------
 - Updated the example code to use SDL2
+- Added a Makefile for easy compilation
 
 nes_ntsc 0.2.3
 --------------
