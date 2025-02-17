@@ -1,6 +1,10 @@
 nes_ntsc Change Log
 -------------------
 
+nes_ntsc 0.2.4
+--------------
+- Updated the example code to use SDL2
+
 nes_ntsc 0.2.3
 --------------
 - Added ability to use a custom RGB palette in place of the NES color
