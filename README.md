@@ -22,11 +22,11 @@ Blitting a 256x240 source image to a 602x240 pixel 16-bit RGB memory
 buffer at 60 frames per second uses 8% CPU on a 2.0 GHz Athlon 3500+ and
 40% CPU on a 10-year-old 400 MHz G3 PowerMac.
 
-Original Author  : Shay Green <gblargg@gmail.com>
-Website : http://www.slack.net/~ant/
-Forum   : http://groups.google.com/group/blargg-sound-libs
-License : GNU Lesser General Public License (LGPL)
-Language: C or C++
+Original Author  : Shay Green <<gblargg@gmail.com>><br>
+Website : http://www.slack.net/~ant/<br>
+Forum   : http://groups.google.com/group/blargg-sound-libs<br>
+License : GNU Lesser General Public License (LGPL)<br>
+Language: C or C++<br>
 
 
 Getting Started
@@ -65,5 +65,5 @@ more features for modifying more complex images.
 
 Credits
 -------
-Shay Green <gblargg@gmail.com>
-Jessie J. Taylor <jessie@sinislosion.net>
+Shay Green <<gblargg@gmail.com>><br>
+Jessie J. Taylor <<jessie@sinislosion.net>>
